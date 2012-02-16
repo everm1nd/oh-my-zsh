@@ -1,1 +1,2 @@
-default[:ohmyzsh][:theme] = "afowler"
+default[:ohmyzsh][:users] = []
+default[:ohmyzsh][:theme] = "robbyrussell"
